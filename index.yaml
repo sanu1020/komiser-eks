@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  komiser:
+  - apiVersion: v2
+    appVersion: 3.1.10
+    created: "2024-02-27T11:10:57.504459+05:30"
+    description: Komiser Helm Chart
+    digest: d39bd370938b856610c7ce5b7a4f9b2654dc7f008297ff5d16093d220d765da3
+    maintainers:
+    - email: mohamed@tailwarden.com
+      name: Mohamed Labouardy
+    - email: jake@tailwarden.com
+      name: Jake Page
+    name: komiser
+    type: application
+    urls:
+    - komiser-3.1.10.tgz
+    version: 3.1.10
+generated: "2024-02-27T11:10:57.503743+05:30"
