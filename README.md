@@ -1,4 +1,7 @@
-# komiser-eks
+# komiser-eks 
+
+This is Unofficial komiser helmchart 
+
 
 ´´´
 image:
@@ -12,7 +15,10 @@ aws:
   arn: ""
 ´´´
 
-`serviceaccountarn` - ARN which is the service account ARN
-`arn` - ARN for accessing the AWS account that you are going to optimize
+> serviceaccountarn - arn which is service account arn
+> arn - which is the arn for access the aws account that you are going to optimize
 
-[Configuration Documentation](https://docs.komiser.io/configuration/cloud-providers/aws)
+´´´
+https://docs.komiser.io/configuration/cloud-providers/aws
+´´´
+
