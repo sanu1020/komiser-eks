@@ -15,8 +15,9 @@ aws:
   arn: ""
 ```
 
-> serviceaccountarn - arn which is service account arn
-> arn - which is the arn for access the aws account that you are going to optimize
+serviceaccountarn - arn which is service account arn
+
+arn - which is the arn for access the aws account that you are going to optimize
 
 ```
 https://docs.komiser.io/configuration/cloud-providers/aws
